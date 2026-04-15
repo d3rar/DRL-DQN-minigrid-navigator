@@ -11,7 +11,8 @@ The Environment: A simple 2D grid world where the agent can move around and inte
 
 The Brain: The AI remembers past attempts and uses that experience to make smarter decisions in the future.
 
-### Progress Tracking: The project tracks and plots the agent's performance to show how it gets smarter over hundreds of attempts.
+### Progress Tracking: 
+tracking and plotting the agent's performance to show how it gets smarter over hundreds of attempts.
 
 
 ### Results
