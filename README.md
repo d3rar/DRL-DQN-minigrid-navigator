@@ -14,6 +14,9 @@ The Brain: The AI remembers past attempts and uses that experience to make smart
 ### Progress Tracking: 
 tracking and plotting the agent's performance to show how it gets smarter over hundreds of attempts.
 
+### Files: 
+- main.ipynb: Jupyter Notebook containing the main code for training and evaluating the model.
+- model.onnx: The trained model in ONNX format.
 
 ### Results
 The AI successfully learns to solve the grid puzzle through trial and error. After training for around 850 episodes, the agent consistently achieves an average success score of over 85%, demonstrating that it has learned an effective strategy to navigate the environment and reach the finish line.
